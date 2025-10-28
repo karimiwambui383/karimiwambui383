@@ -16,7 +16,7 @@ Curiosity keeps me building, breaking, learning, and dreaming.
 - ⚖️ `Justice Hub` — a Python-based platform for digital impact.  
 - 💗 `Self-Care App` — tech meets mindfulness.  
 - 🌍 `Nomad Travels` *(in progress)* — a travel project inspired by exploration.  
-- 🛒 `E-Commerce Site` *(coming soon)* — full-stack commerce experiments.  
+- 🛒 `E-Commerce Site` *(private)* — full-stack commerce experiments.  
 
 ---
 
