@@ -1,12 +1,20 @@
-# Veronica Karimi
+<h1 align="center">
+  <a href="#" style="text-decoration:none; color:#fff;">
+    <span style="font-size:2.8rem; background: linear-gradient(90deg, #0ff, #39ff14, #ff0080);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+      Veronica Karimi
+    </span>
+  </a>
+</h1>
 
-**AI & Full-Stack Developer | Turning Ideas into Elegant Code**
+<p align="center">
+  <strong style="font-size:1.2rem;">Software Developer | Turning Ideas into Elegant Code</strong>
+</p>
 
 ---
 
 ### About Me
-I’m passionate about creating intuitive, scalable, and visually appealing digital experiences.  
-With a strong foundation in both front-end and back-end development, I bring creativity and precision to every project I work on.
+I create efficient, thoughtful, and visually clean solutions through code and design.
 
 ---
 
@@ -35,7 +43,7 @@ With a strong foundation in both front-end and back-end development, I bring cre
 
 ### Connect
 Building a bridge between creativity and technology — one elegant line of code at a time.  
-**Crafted by Veronica Karimi | NomadX Creations**
+**Crafted by Veronica Karimi**
 
 ---
 
