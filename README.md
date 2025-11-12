@@ -88,13 +88,3 @@ A snapshot of the technologies I love to work with:
 </p>
 
 <h3 align="center">Thanks for visiting! 🙏</h3>
-
-<style>
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-@keyframes blink-caret {
-  50% { border-color: transparent; }
-}
-</style>
