@@ -1,51 +1,47 @@
-<h1 align="center">
-  <a href="#" style="text-decoration:none; color:#fff;">
-    <span style="font-size:2.8rem; background: linear-gradient(90deg, #0ff, #39ff14, #ff0080);
-      -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-      Veronica Karimi
-    </span>
-  </a>
-</h1>
+### Hola 👋  
+I'm <span style="font-weight:bold; color:#ff79c6;">
+<span style="opacity:1;">V</span><span style="opacity:0.9;">e</span><span style="opacity:0.8;">r</span><span style="opacity:0.7;">o</span><span style="opacity:0.6;">n</span><span style="opacity:0.5;">i</span><span style="opacity:0.4;">c</span><span style="opacity:0.3;">a</span> <span style="opacity:0.2;">K</span><span style="opacity:0.2;">a</span><span style="opacity:0.2;">r</span><span style="opacity:0.2;">i</span><span style="opacity:0.2;">m</span><span style="opacity:0.2;">i</span>
+</span> — a passionate Computer Science student who loves building creative, impactful, and meaningful tech solutions. 🚀
 
-<p align="center">
-  <strong style="font-size:1.2rem;">Software Developer | Turning Ideas into Elegant Code</strong>
-</p>
 
 ---
 
-### About Me
-I create efficient, thoughtful, and visually clean solutions through code and design.
+#### full-stack developer | AI enthusiast | building meaningful digital experiences ✨
+
+💡 Exploring **Web Technologies (Full-Stack)** and the evolving world of **Artificial Intelligence**  
+🧠 Passionate about **building meaningful digital experiences** powered by creativity and logic  
+🤖 Delving into **Machine Learning & AI**, blending logic and imagination to create smarter systems  
+🌿 Drawn to crafting solutions that balance **innovation**, **efficiency**, and **sustainability**  
+🤝 Always eager to **connect**, **grow**, and **share knowledge** with fellow tech enthusiasts  
 
 ---
 
-### Tech Stack & Tools
+### 🏆 GitHub Stats & Achievements  
 
-| Languages & Tools | |
-|--------------------|--|
-| ![Python](https://skillicons.dev/icons?i=python) | ![C++](https://skillicons.dev/icons?i=cpp) |
-| ![Java](https://skillicons.dev/icons?i=java) | ![JavaScript](https://skillicons.dev/icons?i=js) |
-| ![HTML](https://skillicons.dev/icons?i=html) | ![CSS](https://skillicons.dev/icons?i=css) |
-| ![SQL](https://skillicons.dev/icons?i=mysql) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![VS Code](https://skillicons.dev/icons?i=vscode) | ![Visual Studio](https://skillicons.dev/icons?i=visualstudio) |
-
----
-
-### GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=karimiwambui383&theme=onestar&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  
+![Star's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VeronicaKarimi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VeronicaKarimi&layout=compact&theme=tokyonight&hide_border=true)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VeronicaKarimi&theme=onedark&no-frame=true&row=1&column=7)
+  
+</div>
 
 ---
 
-### GitHub Stats
-![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&theme=transparent&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimiwambui383&layout=compact&theme=transparent&hide_border=true)
+### 🐍 Contribution Grid  
+
+<div align="center">
+  <img src="https://github.com/VeronicaKarimi/VeronicaKarimi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+--
+### 💬 Quote of the Day  
+
+<div align="center">
+
+<img src="https://github-readme-quotes.vercel.app/api?theme=dark&quote=Programs%20must%20be%20written%20for%20people%20to%20read,%20and%20only%20incidentally%20for%20machines%20to%20execute.&author=Harold%20Abelson" alt="Developer Quote" width="600"/>
+
+</div>
+
 
 ---
-
-### Connect
-Building a bridge between creativity and technology — one elegant line of code at a time.  
-**Crafted by Veronica Karimi**
-
----
-
-> “The quieter you become, the more you are able to hear.”  
-> — Ram Dass
