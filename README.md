@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="animation: typing 4s steps(30, end), blink-caret .5s step-end infinite; white-space: nowrap; overflow: hidden; border-right: .15em solid orange;">
-    Hola 👋 I'm **Veronica Karimi**
+    Hola 👋 I'm Veronica Karimi
   </span>
 </h1>
 
@@ -10,36 +10,18 @@
 
 ---
 
-### 💡 About Me
+### About Me
 
-* 💡 Exploring **Web Technologies (Full-Stack)** and the evolving world of **Artificial Intelligence**
-* 🧠 Passionate about **building meaningful digital experiences** powered by creativity and logic
-* 🤖 Delving into **Machine Learning & AI**, blending logic and imagination to create smarter systems
-* 🌿 Drawn to crafting solutions that balance **innovation**, **efficiency**, and **sustainability**
-* 🤝 Always eager to **connect**, **grow**, and **share knowledge** with fellow tech enthusiasts
+*  Exploring **Web Technologies (Full-Stack)** and the evolving world of **Artificial Intelligence**
+*  Passionate about **building meaningful digital experiences** powered by creativity and logic
+*  Delving into **Machine Learning & AI**, blending logic and imagination to create smarter systems
+*  Drawn to crafting solutions that balance **innovation**, **efficiency**, and **sustainability**
+*  Always eager to **connect**, **grow**, and **share knowledge** with fellow tech enthusiasts
 
----
+-
 
-### ⚙️ Tech Stack & Tools
 
-A snapshot of the technologies I love to work with:
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | React,JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, **Python, Django**, REST APIs |
-| **Databases** | **Firebase**, MongoDB, PostgreSQL (Optional) |
-| **AI/ML** | Python, TensorFlow, PyTorch, Scikit-learn, Pandas |
-| **DevOps/Tools**| Git, Docker, AWS (S3, EC2), Vercel, Git  |
-
-<div align="center">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-</div>
 
 ---
 
@@ -49,7 +31,6 @@ A snapshot of the technologies I love to work with:
     
 ![Veronica's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimiwambui383&layout=compact&theme=tokyonight&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karimiwambui383&theme=onedark&no-frame=true&row=2&column=8)
 
 </div>
 
