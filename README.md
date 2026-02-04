@@ -5,12 +5,11 @@
 
 - 🌱 I’m currently learning **Data Analysis, python for web development, C++(DSA)**
 
-- 👯 I’m looking to collaborate on **open-source python, web development, or biginner friendly data analysis projects**
+- 👯 I’m looking to collaborate on **open-source python, web development, or beginner friendly data analysis projects**
 
-- 🤝 I’m looking for help with **advanced JavaScript concepts and real-world data analysis workflowsn**
+- 🤝 I’m looking for help with **advanced JavaScript concepts and real-world data analysis workflows**
 
-- 👨‍💻 All of my projects are available at [cooming soon](cooming soon)
-
+- 👨‍💻
 - 💬 Ask me about **Python Development, beginner tech learning strategies and building projects while studying**
 
 - 📫 How to reach me **vwmbui108@gmail.com**
@@ -28,8 +27,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimiwambui383&show_icons=true&locale=en&layout=compact" alt="karimiwambui383" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&locale=en" alt="karimiwambui383" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&theme=tokyonight)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimiwambui383&" alt="karimiwambui383" /></p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimiwambui383&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=karimiwambui383&theme=tokyonight)
