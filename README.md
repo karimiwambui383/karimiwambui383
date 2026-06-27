@@ -21,7 +21,7 @@ I'm a passionate software developer with a keen interest in data analysis and bu
 **Frontend:** React, HTML/CSS  
 **Backend:** Node.js, Express  
 **Databases:** MySQL, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook  
+**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Slack, Linux  
 
 ---
 
