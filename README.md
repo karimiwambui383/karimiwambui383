@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to the tech community. My goal is to create impactful software that solves real-world problems.
+I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to open-source communities.
 
 ### 🎯 Current Focus
 - 💼 Developing full-stack applications
@@ -42,9 +42,8 @@ Coming soon! Check out my repositories for recent work.
 I'm open to collaborations, mentorship, and learning opportunities!
 
 - ✉️ **Email:** [vwambui108@gmail.com](mailto:vwambui108@gmail.com)
-- 💼 **LinkedIn:** Add your LinkedIn URL
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/veronica-wambui-088b11360](https://www.linkedin.com/in/veronica-wambui-088b11360)
 - 🐙 **GitHub:** [@karimiwambui383](https://github.com/karimiwambui383)
-- 🐦 **Twitter:** Add your Twitter handle
 
 ---
 
