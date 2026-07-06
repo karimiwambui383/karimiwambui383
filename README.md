@@ -5,13 +5,31 @@
 
 ## 🌟 About Me
 
-I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to open-source communities.
+I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to the open-source community.
 
 ### 🎯 Current Focus
 - 💼 Developing full-stack applications
 - 📈 Exploring data analysis and visualization
 - 🌱 Continuously learning and growing as a developer
 - 🤝 Looking for collaboration opportunities
+
+---
+
+## 🎮 Fun Project: Snake Game
+
+Check out my **[Snake Game](./snake_game.py)** - A classic terminal-based snake game built with Python! 🐍
+
+```python
+# Quick demo:
+python snake_game.py
+```
+
+Features:
+- 🎯 Classic snake gameplay mechanics
+- 🎨 Unicode graphics for terminal display
+- 📊 Real-time score tracking
+- 🔄 Collision detection (walls & self)
+- 🍎 Randomly generated food
 
 ---
 
@@ -27,7 +45,8 @@ I'm a passionate software developer with a keen interest in data analysis and bu
 
 ## 📚 Featured Projects
 
-Coming soon! Check out my repositories for recent work.
+- 🐍 **Snake Game** - Classic terminal game built with Python
+- Coming soon! Check out my repositories for recent work.
 
 ---
 
