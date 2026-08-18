@@ -5,7 +5,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to the open-source community.
+I'm a passionate software developer with a keen interest in data analysis and building meaningful solutions. I love learning new technologies, collaborating on exciting projects, and contributing to open-source.
 
 ### 🎯 Current Focus
 - 💼 Developing full-stack applications
@@ -39,7 +39,7 @@ Features:
 **Frontend:** React, HTML/CSS  
 **Backend:** Node.js, Express  
 **Databases:** MySQL, PostgreSQL  
-**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Slack, Linux  
+**Tools & Platforms:** Git, GitHub, VS Code, Jupyter Notebook, Slack, Linux
 
 ---
 
@@ -52,7 +52,23 @@ Features:
 
 ## 📊 GitHub Stats
 
-![Veronica's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&theme=radical)
+<!-- Contribution graph -->
+![Contribution Graph](https://ghchart.rshah.org/karimiwambui383)
+
+<!-- GitHub readme stats (overall) -->
+![karimiwambui383's GitHub stats](https://github-readme-stats.vercel.app/api?username=karimiwambui383&show_icons=true&theme=tokyonight)
+
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimiwambui383&layout=compact&theme=tokyonight)
+
+
+---
+
+## Languages (this repository)
+
+Based on repository language composition:
+
+- Python — 100%
 
 ---
 
